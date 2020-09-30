@@ -8,4 +8,3 @@
   <a href="https://github.com/garnetluvcookie">My GitHub Profile</a><br>
   <a href="https://github.com/garnetluvcookie/garnetluvcookie.github.io">This site's repository</a><br>
   </div>
-</html>
