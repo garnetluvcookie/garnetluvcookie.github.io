@@ -19,3 +19,7 @@ body {
 a:hover {
  color: #333; text-decoration: none;
 }
+
+links {
+ text-align: center
+}
